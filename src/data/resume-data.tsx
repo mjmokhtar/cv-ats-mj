@@ -6,7 +6,7 @@ import {
   ParabolLogo,
 
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon} from "@/components/icons";
 import { Twitter } from "lucide-react";
 
 export const RESUME_DATA = {
@@ -21,8 +21,7 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
-    email: "mjmmiat01@gmail.com",
-    tel: "https://wa.me/628539416700",
+    email: "mjmmiat01@gmail.com",  
     social: [
       {
         name: "GitHub",
@@ -33,11 +32,6 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/muhammadjumiatmokhtar/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com/cenayang02",
-        icon: Twitter,
       },
     ],
   },
@@ -71,6 +65,7 @@ export const RESUME_DATA = {
     "Node-RED",
     "espressif",
     "Arduino",
+    "STM32",
     "C",
     "C++",    
     "Python",
@@ -120,6 +115,7 @@ export const RESUME_DATA = {
         "Side Project",
         "Arduino",
         "espressif",
+        "STM32",
         "C",
         "C++",
         "Eagle PCB",
