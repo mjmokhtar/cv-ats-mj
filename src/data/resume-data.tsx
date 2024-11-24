@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Generalist.",
   summary:
-    "A physics graduate from Lambung Mangkurat University in 2022. Currently, I'm working as a Software Engineer at PT. RESTEK. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, programming, and modifying calibrated measuring instruments.",
+    "A physics graduate from Lambung Mangkurat University in 2022. Currently, I'm working as a Engineer at PT. RESTEK. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, prototype, programming, and modifying calibrated measuring instruments.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
@@ -48,7 +48,7 @@ export const RESUME_DATA = {
       company: "RESTEK",
       link: "https://www.rsteknologi.com/",
       badges: ["Office"],
-      title: "Software Engineer",
+      title: "Engineer",
       logo: ConsultlyLogo,
       start: "2023",
       end: null,
@@ -57,21 +57,23 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "Go",
-    "php",
-    "MySQL",
+    "JavaScript",  
     "Node.js",
     "Node-RED",
+    "Go",
+    "php",    
+    "SQL",
     "espressif",
     "Arduino",
     "STM32",
     "C",
     "C++",    
     "Python",
+    "Linux",
     "Raspberry Pi",    
     "Lattepanda",
-    "EAGLE"
+    "EAGLE",
+    "PLC Schneider"
   ],
   projects: [
     {
@@ -80,8 +82,7 @@ export const RESUME_DATA = {
         "Node.js",
         "RESTful API",
         "Node-RED",
-        "Modbus TCP/IP",
-        "Go"
+        "Modbus TCP/IP"        
       ],
       description:
         "Integration monitoring and control system of Automatic Train Wash Plant (ATWP) of the Jabodebek LRT based on Modbus TCP/IP",
@@ -118,13 +119,30 @@ export const RESUME_DATA = {
         "STM32",
         "C",
         "C++",
-        "Eagle PCB",
-        "php",
+        "Eagle PCB",        
         "Pyhton",
         "Node-RED",
       ],
       description:
         "Create something for fun and learning same time",
+      logo: MonitoLogo,
+      link: {
+        label: "monito.dev",
+        href: "",
+      },
+    },
+    {
+      title: "CCD Train",
+      techStack: [
+        "Side Project",
+        "PLC Schneider",
+        "Electrical design",
+        "OpenCV",        
+        "Pyhton",
+        "Modbus TCP/IP"     
+      ],
+      description:
+        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD), implementing Modbus TCP/IP for server communication.",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
