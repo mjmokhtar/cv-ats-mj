@@ -111,6 +111,24 @@ export const RESUME_DATA = {
       },
     },    
     {
+      title: "CCD Train",
+      techStack: [
+        "Side Project",
+        "PLC Schneider",
+        "Electrical design",
+        "OpenCV",        
+        "Pyhton",
+        "Modbus TCP/IP"     
+      ],
+      description:
+        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD), implementing Modbus TCP/IP for server communication.",
+      logo: MonitoLogo,
+      link: {
+        label: "monito.dev",
+        href: "",
+      },
+    },
+    {
       title: "IoT Hobbies",
       techStack: [
         "Side Project",
@@ -125,24 +143,6 @@ export const RESUME_DATA = {
       ],
       description:
         "Create something for fun and learning same time",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "",
-      },
-    },
-    {
-      title: "CCD Train",
-      techStack: [
-        "Side Project",
-        "PLC Schneider",
-        "Electrical design",
-        "OpenCV",        
-        "Pyhton",
-        "Modbus TCP/IP"     
-      ],
-      description:
-        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD), implementing Modbus TCP/IP for server communication.",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
