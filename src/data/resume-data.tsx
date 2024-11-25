@@ -106,7 +106,7 @@ export const RESUME_DATA = {
         "Designed hardware PCB and firmware for a running text display unit using dot matrix LED panels on trains as front display information system",
       logo: EvercastLogo,
       link: {
-        label: "evercast.us",
+        label: "github.com",
         href: "",
       },
     },    
@@ -117,14 +117,14 @@ export const RESUME_DATA = {
         "PLC Schneider",
         "Electrical design",
         "OpenCV",        
-        "Pyhton",
+        "Python",
         "Modbus TCP/IP"     
       ],
       description:
-        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD), implementing Modbus TCP/IP for server communication.",
+        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD) Train",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
+        label: "github.com",
         href: "",
       },
     },
@@ -138,14 +138,14 @@ export const RESUME_DATA = {
         "C",
         "C++",
         "Eagle PCB",        
-        "Pyhton",
+        "Python",
         "Node-RED",
       ],
       description:
         "Create something for fun and learning same time",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
+        label: "github.com",
         href: "",
       },
     },
