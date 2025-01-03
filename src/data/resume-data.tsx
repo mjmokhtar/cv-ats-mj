@@ -139,7 +139,7 @@ export const RESUME_DATA = {
         "REST API"     
       ],
       description:
-        "Sensor Data Processing System - Built with Node.js, MySQL, and UDP for real-time data transmission, featuring backup systems, FTP image uploads, and camera integration for material analysis.",
+        "Weight Sensor Data Processing System real-time data transmission, featuring backup systems, FTP image uploads, and camera integration for material analysis.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
