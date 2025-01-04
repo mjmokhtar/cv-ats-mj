@@ -82,10 +82,12 @@ export const RESUME_DATA = {
         "Node.js",
         "RESTful API",
         "Node-RED",
-        "Modbus TCP/IP"        
+        "Modbus TCP/IP",
+        "UDP",
+        "PostgreSQL"
       ],
       description:
-        "Integration monitoring and control system of Automatic Train Wash Plant (ATWP) of the Jabodebek LRT based on Modbus TCP/IP",
+        "Integration monitoring and control system of Automatic Train Wash Plant (ATWP) and RFID tag & Reader Train of the Jabodebek LRT based on Modbus TCP/IP",
       logo: ParabolLogo,
       link: {
         label: "github.com",
@@ -136,7 +138,7 @@ export const RESUME_DATA = {
         "FTP",
         "UDP",        
         "MySQL",
-        "REST API"     
+        "RESTful API"     
       ],
       description:
         "Weight Sensor Data Processing System real-time data transmission, featuring backup systems, FTP image uploads, and camera integration for material analysis.",
