@@ -15,7 +15,7 @@ export const RESUME_DATA = {
   location: "Jakarta, Indonesia",
   locationLink: "https://maps.app.goo.gl/2s7FBP1uNst6EjQB8",
   about:
-    "Generalist.",
+    "Toaster. 🔌♨️🍞",
   summary:
     "A physics graduate from Lambung Mangkurat University in 2022. Currently, I'm working as a Engineer at PT. RESTEK. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, prototype, programming, and modifying calibrated measuring instruments.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
@@ -53,27 +53,16 @@ export const RESUME_DATA = {
       start: "2023",
       end: null,
       description:
-        "a technology and engineering based company that provides solutions for various Special Industrial sectors including Automotive, Railway, Control Systems, Multimedia, Manufacturing, Security, Sea Transportation, Maritime Industry including Navigation and Marine Telecommunications.",
+        "",
     },
   ],
   skills: [
-    "JavaScript",  
-    "Node.js",
-    "Node-RED",
-    "Go",
-    "php",    
-    "SQL",
-    "espressif",
-    "Arduino",
-    "STM32",
-    "C",
-    "C++",    
-    "Python",
-    "Linux",
-    "Raspberry Pi",    
-    "Lattepanda",
-    "EAGLE",
-    "PLC Schneider"
+    "Programming & Scripting",  
+    "IoT & Embedded Systems",
+    "System Integration",
+    "Hardware Design",
+    "Operating Systems",    
+    "Networking",
   ],
   projects: [
     {
