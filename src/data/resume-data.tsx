@@ -53,8 +53,19 @@ export const RESUME_DATA = {
       start: "2023",
       end: null,
       description:
-        "",
+        "A technology and engineering based company that provides solutions for various Special Industrial Railway",
     },
+    {
+      company: "Side Jobs",
+      link: "",
+      badges: ["WFH"],
+      title: "IoT Engineer",
+      logo: ConsultlyLogo,
+      start: "2023",
+      end: null,
+      description:
+        "IoT specialist offering expertise in designing, developing, and integrating smart systems and connected devices to optimize automation and data-driven solutions",
+    }
   ],
   skills: [
     "Programming & Scripting",  
