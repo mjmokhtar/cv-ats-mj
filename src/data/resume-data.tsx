@@ -7,7 +7,7 @@ import {
 
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon} from "@/components/icons";
-import { Twitter } from "lucide-react";
+
 
 export const RESUME_DATA = {
   name: "Muhammad Jumi'at Mokhtar",
@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       badges: ["WFH"],
       title: "IoT Engineer",
       logo: ConsultlyLogo,
-      start: "2023",
+      start: "2024",
       end: null,
       description:
         "IoT specialist offering expertise in designing, developing, and integrating smart systems and connected devices to optimize automation and data-driven solutions",
