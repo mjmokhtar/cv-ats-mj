@@ -84,7 +84,8 @@ export const RESUME_DATA = {
         "Node-RED",
         "Modbus TCP/IP",
         "UDP",
-        "PostgreSQL"
+        "PostgreSQL",
+        "RESTEK"
       ],
       description:
         "Integration monitoring and control system of Automatic Train Wash Plant (ATWP) and RFID tag & Reader Train of the Jabodebek LRT based on Modbus TCP/IP",
@@ -102,7 +103,8 @@ export const RESUME_DATA = {
         "C",
         "C++",
         "Eagle PCB",
-        "Raspberry Pi",        
+        "Raspberry Pi",
+        "RESTEK"
       ],
       description:
         "Designed hardware PCB and firmware for a running text display unit using dot matrix LED panels on trains as front display information system",
