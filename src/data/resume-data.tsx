@@ -119,10 +119,11 @@ export const RESUME_DATA = {
       techStack: [
         "Side Project",
         "PLC Schneider",
-        "Electrical design",
+        "Sensor & Electrical design",
         "OpenCV",        
         "Python",
         "Modbus TCP/IP",
+        "PostgreSQL",
         "FastAPI",
         "RESTful API"
       ],
