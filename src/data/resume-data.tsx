@@ -122,10 +122,12 @@ export const RESUME_DATA = {
         "Electrical design",
         "OpenCV",        
         "Python",
-        "Modbus TCP/IP"     
+        "Modbus TCP/IP",
+        "FastAPI",
+        "RESTful API"
       ],
       description:
-        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD) Train",
+        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD) Train also create Backend to get images data each trainset",
       logo: MonitoLogo,
       link: {
         label: "github.com",
