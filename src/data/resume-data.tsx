@@ -124,7 +124,6 @@ export const RESUME_DATA = {
         "Python",
         "Modbus TCP/IP",
         "PostgreSQL",
-        "FastAPI",
         "RESTful API"
       ],
       description:
@@ -147,6 +146,27 @@ export const RESUME_DATA = {
       ],
       description:
         "Weight Sensor Data Processing System real-time data transmission, featuring backup systems, FTP image uploads, and camera integration for material analysis.",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
+      title: "Dashboard Train Monitoring system",
+      techStack: [
+        "RESTEK",
+        "Node.js",
+        "php",
+        "UDP",        
+        "MySQL",
+        "RESTful API",
+        "Arduino",
+        "espressif",
+        "Rapsberry PI"
+      ],
+      description:
+        "monitoring position and parameter of moving trainset",
       logo: MonitoLogo,
       link: {
         label: "github.com",
