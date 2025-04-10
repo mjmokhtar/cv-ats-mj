@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Toaster. 🔌♨️🍞",
   summary:
-    "A physics graduate from Lambung Mangkurat University in 2022. Currently, I'm working as a Engineer at PT. RESTEK. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, prototype, programming, and modifying calibrated measuring instruments.",
+    "A physics graduate from Lambung Mangkurat University in 2022. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, prototype, programming, and modifying calibrated measuring instruments.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       title: "Engineer",
       logo: ConsultlyLogo,
       start: "2023",
-      end: null,
+      end: "2025",
       description:
         "A technology and engineering based company that provides solutions for various Special Industrial Railway",
     },
