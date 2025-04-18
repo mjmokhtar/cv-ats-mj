@@ -44,17 +44,7 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-    {
-      company: "RESTEK",
-      link: "https://www.rsteknologi.com/",
-      badges: ["Office"],
-      title: "Engineer",
-      logo: ConsultlyLogo,
-      start: "2023",
-      end: "2025",
-      description:
-        "A technology and engineering based company that provides solutions for various Special Industrial Railway",
-    },
+    
     {
       company: "Side Jobs",
       link: "",
@@ -65,6 +55,17 @@ export const RESUME_DATA = {
       end: null,
       description:
         "IoT specialist offering expertise in designing, developing, and integrating smart systems and connected devices to optimize automation and data-driven solutions",
+    },
+    {
+      company: "RESTEK",
+      link: "https://www.rsteknologi.com/",
+      badges: ["Office"],
+      title: "Engineer",
+      logo: ConsultlyLogo,
+      start: "2023",
+      end: "2025",
+      description:
+        "A technology and engineering based company that provides solutions for various Special Industrial Railway",
     }
   ],
   skills: [
