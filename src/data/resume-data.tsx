@@ -73,7 +73,7 @@ export const RESUME_DATA = {
     "IoT & Embedded Systems",
     "System Integration",
     "Hardware Design",
-    "Operating Systems",    
+    "System Administration",    
     "Networking",
   ],
   projects: [
