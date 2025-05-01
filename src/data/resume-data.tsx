@@ -154,7 +154,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Dashboard Train Monitoring system",
+      title: "Dashboard Train Moving Monitoring system",
       techStack: [
         "RESTEK",
         "Node.js",
@@ -167,7 +167,7 @@ export const RESUME_DATA = {
         "Rapsberry PI"
       ],
       description:
-        "monitoring position and parameter of moving trainset",
+        "Designed hardware and create web base monitoring position and parameter of moving trainset",
       logo: MonitoLogo,
       link: {
         label: "github.com",
