@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Freelance"],
       title: "Embedded Systems Tutor",
-      logo: TutorLogo, // bisa pakai placeholder atau logo khusus
+      logo: ConsultlyLogo, // bisa pakai placeholder atau logo khusus
       start: "2025",
       end: null,
       description:
