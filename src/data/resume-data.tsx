@@ -57,6 +57,17 @@ export const RESUME_DATA = {
         "IoT specialist offering expertise in designing, developing, and integrating smart systems and connected devices to optimize automation and data-driven solutions",
     },
     {
+      company: "Side Jobs",
+      link: "",
+      badges: ["Freelance"],
+      title: "Embedded Systems Tutor",
+      logo: TutorLogo, // bisa pakai placeholder atau logo khusus
+      start: "2025",
+      end: null,
+      description:
+      "Provide one-on-one private tutoring in embedded systems, covering microcontroller programming, circuit design, IoT protocols, and real-world hardware integration for students and professionals.",
+    },
+    {
       company: "RESTEK",
       link: "https://www.rsteknologi.com/",
       badges: ["Office"],
