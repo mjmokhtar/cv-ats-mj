@@ -186,6 +186,24 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Pedestrian Collision Warning Validator",
+      techStack: [
+        "AMI",
+        "Pyhton",
+        "OpenCV",
+        "YOLO",        
+        "MySQL",
+        "RESTful API"
+      ],
+      description:
+        "",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
       title: "IoT Hobbies",
       techStack: [
         "Side Project",
