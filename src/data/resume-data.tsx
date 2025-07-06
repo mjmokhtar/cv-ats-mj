@@ -205,17 +205,18 @@ export const RESUME_DATA = {
     {
       title: "IoT Hobbies",
       techStack: [
-        "Side Project",
+        "Portfolio",
         "Arduino",
         "espressif",
         "STM32",
+        "RPI"
         "C",
         "C++",
         "Eagle PCB",        
         "Python",
-        "Node-RED",
-        "Go",
         "Node.js",
+        "Go",
+        "Node-RED",
         "RDBMS"
       ],
       description:
@@ -228,7 +229,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Portfolio",
-      techStack: ["Side Project"],
+      techStack: ["Portfolio"],
       description:
         "Personal website and blog",
       logo: JarockiMeLogo,
