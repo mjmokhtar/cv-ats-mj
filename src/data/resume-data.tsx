@@ -80,12 +80,12 @@ export const RESUME_DATA = {
     }
   ],
   skills: [
-    "Programming & Scripting",  
-    "IoT & Embedded Systems",
+    "Programming, Scripting & System Design",  
+    "IoT, Embedded & Firmware Systems",
     "System Integration",
     "Hardware Design",
     "System Administration",    
-    "Networking",
+    "Network",
   ],
   projects: [
     {
@@ -215,6 +215,9 @@ export const RESUME_DATA = {
         "Eagle PCB",        
         "Python",
         "Node-RED",
+        "Go",
+        "Node.js",
+        "RDBMS"
       ],
       description:
         "Create something for fun and learning same time",
