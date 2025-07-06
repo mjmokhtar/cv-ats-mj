@@ -209,7 +209,7 @@ export const RESUME_DATA = {
         "Arduino",
         "espressif",
         "STM32",
-        "RPI"
+        "RPI",
         "C",
         "C++",
         "Eagle PCB",        
