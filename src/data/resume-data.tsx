@@ -80,11 +80,10 @@ export const RESUME_DATA = {
     }
   ],
   skills: [
-    "Programming, Scripting & System Design",  
+    "Programming & Scripting",  
     "IoT, Embedded & Firmware Systems",
-    "System Integration",
     "Hardware Design",
-    "System Administration",    
+    "System Design, Administration & Integration",    
     "Network",
   ],
   projects: [
