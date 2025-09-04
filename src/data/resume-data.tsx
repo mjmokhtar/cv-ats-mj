@@ -68,6 +68,17 @@ export const RESUME_DATA = {
       "Provide one-on-one private tutoring in embedded systems, covering microcontroller programming, circuit design, IoT protocols, and real-world hardware integration for students and professionals.",
     },
     {
+      company: "AMI",
+      link: "https://amanmedia.id/",
+      badges: ["Officer"],
+      title: "IoT Engineer",
+      logo: ConsultlyLogo, // bisa pakai placeholder atau logo khusus
+      start: "2025",
+      end: null,
+      description:
+      "This Jakarta-based technology partner, established in 2019, focuses on helping industries build integrated systems through innovative, simple, and trusted solutions.",
+    },
+    {
       company: "RESTEK",
       link: "https://www.rsteknologi.com/",
       badges: ["Office"],
