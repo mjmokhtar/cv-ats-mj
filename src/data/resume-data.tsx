@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Toaster. 🔌♨️🍞",
   summary:
-    "A physics graduate from Lambung Mangkurat University in 2022. I have a career interest as a Researcher, Embedded System & Firmware Engineer, IoT Developer, and Electronics, Intrumentation & Calibration Technician. I have proficiency in creating, prototype, programming, and modifying calibrated measuring instruments.",
+    "Embedded Systems & IoT Developer with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
