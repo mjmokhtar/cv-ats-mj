@@ -82,10 +82,10 @@ export const RESUME_DATA = {
   skills: [
     "Programming & Scripting",  
     "IoT, Embedded & Firmware Systems",
-    "Hardware Design",
-    "System Design, Administration & Integration",    
-    "Network",
-  ],
+    "Hardware Design & PCB Layout",
+    "System Design, Administration & Integration",
+    "Network Configuration & Protocols",    
+],
   projects: [
     {
       title: "EAMMS ATWP",
