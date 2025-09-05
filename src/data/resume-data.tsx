@@ -82,7 +82,7 @@ export const RESUME_DATA = {
   skills: [
     "Programming & Scripting",  
     "IoT, Embedded & Firmware Systems",
-    "Hardware Design & PCB Layout",
+    "PCB Layout & Circuit Design Engineer",
     "System Design, Administration & Integration",
     "Network Configuration & Protocols",    
 ],
@@ -94,7 +94,7 @@ export const RESUME_DATA = {
         "RESTful API",
         "Node-RED",
         "Modbus TCP/IP",
-        "UDP",
+        "Network (UDP)",
         "PostgreSQL",
         "RESTEK"
       ],
@@ -135,7 +135,8 @@ export const RESUME_DATA = {
         "Python",
         "Modbus TCP/IP",
         "PostgreSQL",
-        "RESTful API"
+        "RESTful API",
+        "Network (UDP)"
       ],
       description:
         "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD) Train also create Backend to get images data each trainset",
@@ -150,8 +151,7 @@ export const RESUME_DATA = {
       techStack: [
         "Side Project",
         "Node.js",
-        "FTP",
-        "UDP",        
+        "Network (UDP, FTP)",
         "MySQL",
         "RESTful API"     
       ],
@@ -169,7 +169,7 @@ export const RESUME_DATA = {
         "RESTEK",
         "Node.js",
         "php",
-        "UDP",        
+        "Network (UDP)",
         "MySQL",
         "RESTful API",
         "Arduino",
