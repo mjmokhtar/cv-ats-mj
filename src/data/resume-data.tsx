@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Toaster. 🔌♨️🍞",
   summary:
-    "Embedded Systems & IoT Developer with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
+    "Embedded Systems & (IoT Tinkerer confident become IoT Developer also IoT Engineer in this year) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
@@ -203,7 +203,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "IoT Hobbies",
+      title: "IoT Tinkerer",
       techStack: [
         "Portfolio",
         "Arduino",
