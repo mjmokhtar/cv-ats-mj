@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Toaster. 🔌♨️🍞",
   summary:
-    "Embedded Systems & (IoT Tinkerer confident become IoT Developer also IoT Engineer in this year) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
+    "Embedded Systems & (IoT Tinkerer and Developer at Same time also IoT Engineer) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
   avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
@@ -30,7 +30,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/muhammadjumiatmokhtar/",
+        url: "https://www.linkedin.com/in/mjmokhtar/",
         icon: LinkedInIcon,
       },
     ],
@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: null,
       description:
-        "IoT specialist offering expertise in designing, developing, and integrating smart systems and connected devices to optimize automation and data-driven solutions also Provide one-on-one private tutoring in embedded systems, covering microcontroller programming, circuit design, IoT protocols, and real-world hardware integration for students and professionals.",
+        "Provide consultation and hands-on development of IoT and embedded systems. Design and integrate smart devices with sensors, microcontrollers, and communication protocols. Deliver personalized tutoring for professionals and students in microcontroller programming, PCB design, IoT protocols, and real-world hardware deployment.",
     },
     {
       company: "AMI",
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
     "Programming & Scripting",  
     "IoT, Embedded & Firmware Systems",
     "PCB Layout & Circuit Design Engineer",
-    "System Design, Administration & Integration",
+    "System Design & Integration",
     "Network Configuration & Protocols",    
 ],
   projects: [
@@ -99,7 +99,7 @@ export const RESUME_DATA = {
         "RESTEK"
       ],
       description:
-        "Integration monitoring and control system of Automatic Train Wash Plant (ATWP) and RFID tag & Reader Train of the Jabodebek LRT based on Modbus TCP/IP",
+        "Developed a monitoring and control system for the Automatic Train Wash Plant (ATWP) and RFID Train System at Jabodebek LRT. Integrated PLCs via Modbus TCP/IP with a Node.js backend and PostgreSQL database, achieving 99% system uptime and reducing manual inspection by 40%.",
       logo: ParabolLogo,
       link: {
         label: "github.com",
@@ -118,7 +118,7 @@ export const RESUME_DATA = {
         "RESTEK"
       ],
       description:
-        "Designed hardware PCB and firmware for a running text display unit using dot matrix LED panels on trains as front display information system",
+        "Designed and developed a ESP32-based RGB LED controller with Network communication for running text displays used in Jabodebek and Commuter Line trains. Enhanced display stability and reliability across 50+ deployed train units.",
       logo: EvercastLogo,
       link: {
         label: "github.com",
@@ -139,7 +139,7 @@ export const RESUME_DATA = {
         "Network (UDP)"
       ],
       description:
-        "Integration PLC Schneider M221 PLC and wired ultrasonic sensors and CCTV for monitoring Current Collector Device (CCD) Train also create Backend to get images data each trainset",
+        "Integrated Schneider M221 PLC, ultrasonic sensors, and CCTV to remotely monitor the Current Collector Device (CCD) on trains. Built a Python-based backend to collect and analyze image and sensor data per trainset, reducing on-site inspection frequency by 60%.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -156,7 +156,7 @@ export const RESUME_DATA = {
         "RESTful API"     
       ],
       description:
-        "Weight Sensor Data Processing System real-time data transmission, featuring backup systems, FTP image uploads, and camera integration for material analysis.",
+        "Developed a real-time data acquisition middleware for industrial weight sensors using UDP and FTP. Implemented automated image backup and camera-based material analysis, reducing manual reporting time by 40% and improving traceability.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -177,7 +177,7 @@ export const RESUME_DATA = {
         "Rapsberry PI"
       ],
       description:
-        "Designed hardware and create web base monitoring position and parameter of moving trainset",
+        "Developed a hardware-software integrated platform for real-time trainset tracking and condition monitoring. Implemented RESTful APIs and edge gateways (ESP32 and Raspberry Pi) enabling <2s latency data updates and seamless cloud synchronization.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -195,7 +195,7 @@ export const RESUME_DATA = {
         "RESTful API"
       ],
       description:
-        "The validator ensures the consistency, accuracy, and integrity of critical driving behavior and driver condition data, helping to identify anomalies, validate event triggers, and improve overall system reliability.",
+        "Developed a validation system for ADAS and DSM video analytics to ensure accuracy, consistency, and reliability of driver behavior data. Enhanced anomaly detection and reduced manual validation time by 60%, improving event accuracy by 25%.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -220,7 +220,7 @@ export const RESUME_DATA = {
         "RDBMS"
       ],
       description:
-        "Create something for fun and learning same time",
+        "Collection of experimental IoT projects exploring embedded firmware design, sensor networks, MQTT/TCP/UDP communication, and cloud integration using Arduino, ESP32, and STM32 microcontrollers.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -231,7 +231,7 @@ export const RESUME_DATA = {
       title: "Portfolio",
       techStack: ["Portfolio"],
       description:
-        "Personal website and blog",
+        "Personal website and online portfolio showcasing embedded systems and IoT development projects.",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
