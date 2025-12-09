@@ -203,12 +203,12 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Middleware Apps",
+      title: "Middleware BatteryCharger Apps",
       techStack: [
         "AMI",
         "Pyhton",
         "UART Serial",
-        "PyQT5",        
+        "PyQt5",        
         "Desktop Apps"
       ],
       description:
