@@ -203,6 +203,23 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Middleware Apps",
+      techStack: [
+        "AMI",
+        "Pyhton",
+        "UART Serial",
+        "PyQT5",        
+        "Desktop Apps"
+      ],
+      description:
+        "Developed a dekstop middleware system for Battery charging. using serial comunication protocol to convert byte data from old apps to new device battery charging using protocol SCPI.",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
       title: "IoT Tinkerer",
       techStack: [
         "Portfolio",
