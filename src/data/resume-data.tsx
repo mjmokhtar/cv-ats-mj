@@ -90,13 +90,13 @@ export const RESUME_DATA = {
     {
       title: "EAMMS ATWP",
       techStack: [                
+        "RESTEK",
         "Node.js",
         "RESTful API",
         "Node-RED",
         "Modbus TCP/IP",
         "Network (UDP)",
-        "PostgreSQL",
-        "RESTEK"
+        "PostgreSQL"
       ],
       description:
         "Developed a monitoring and control system for the Automatic Train Wash Plant (ATWP) and RFID Train System at Jabodebek LRT. Integrated PLCs via Modbus TCP/IP with a Node.js backend and PostgreSQL database, achieving 99% system uptime and reducing manual inspection by 40%.",
@@ -109,13 +109,13 @@ export const RESUME_DATA = {
     {
       title: "Running Text LED",
       techStack: [
+        "RESTEK",
         "Arduino",
         "espressif",        
         "C",
         "C++",
         "Eagle PCB",
-        "Raspberry Pi",
-        "RESTEK"
+        "Raspberry Pi"        
       ],
       description:
         "Designed and developed a ESP32-based RGB LED controller with Network communication for running text displays used in Jabodebek and Commuter Line trains. Enhanced display stability and reliability across 50+ deployed train units.",
