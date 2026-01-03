@@ -18,7 +18,7 @@ export const RESUME_DATA = {
     "Toaster. 🔌♨️🍞",
   summary:
     "Embedded Systems & (IoT Tinkerer and Developer at Same time also IoT Engineer) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/108962994?v=4",
+  avatarUrl: "https://toaster.mjmokhtar.cloud/image/new.jpeg",
   personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
   contact: {
     email: "mjmmiat01@gmail.com",  
@@ -46,10 +46,10 @@ export const RESUME_DATA = {
   work: [
     
     {
-      company: "Side Jobs",
-      link: "",
-      badges: ["Freelance"],
-      title: "IoT Engineer & Embedded Systems Tutor",
+      company: "Toaster",
+      link: "https://toaster.mjmokhtar.cloud",
+      badges: ["Founder", "CEO", "CFO", "Freelancer", "Tutor", "Consultant"],
+      title: "IoT Engineer & Embedded Systems",
       logo: ConsultlyLogo,
       start: "2024",
       end: null,
@@ -252,7 +252,18 @@ export const RESUME_DATA = {
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
-        href: "https://mjmokhtar.netlify.app/",
+        href: "https://mjmokhtar.cloud/",
+      },
+    },
+    {
+      title: "Company Profile",
+      techStack: ["Portfolio"],
+      description:
+        "Company profile website for Toaster showcasing services and projects.",
+      logo: JarockiMeLogo,
+      link: {
+        label: "github.com",
+        href: "https://toaster.mjmokhtar.cloud",
       },
     }
   ],
