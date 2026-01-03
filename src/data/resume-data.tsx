@@ -48,7 +48,7 @@ export const RESUME_DATA = {
     {
       company: "Toaster",
       link: "https://toaster.mjmokhtar.cloud",
-      badges: ["Founder", "CEO", "CTO", "CFO", "Freelancer", "Tutor", "Consultant"],
+      badges: ["Founder", "Freelancer", "Consultant"],
       title: "IoT Engineer & Embedded Systems",
       logo: ConsultlyLogo,
       start: "2024",
