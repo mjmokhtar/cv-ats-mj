@@ -265,6 +265,23 @@ export const RESUME_DATA = {
         label: "github.com",
         href: "https://toaster.mjmokhtar.cloud",
       },
+    },
+    {
+      title: "J2ME Retro",
+      techStack: 
+      ["Portfolio",
+        "Vue.js",
+        "Bun",
+        "PostgreSQL",
+        "Typescript"
+      ],
+      description:
+        " J2ME Retro is a free archive of classic Java 2 Micro Edition (J2ME) mobile games. Remember the golden era of mobile gaming before smartphones? We're bringing it back! Download hundreds of legendary Gameloft titles and play them on J2ME emulators. Nostalgia guaranteed!",
+      logo: JarockiMeLogo,
+      link: {
+        label: "github.com",
+        href: "https://j2me-retro.mjmokhtar.cloud",
+      },
     }
   ],
 } as const;
