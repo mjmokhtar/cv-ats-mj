@@ -18,7 +18,7 @@ export const RESUME_DATA = {
     "Toaster. 🔌♨️🍞",
   summary:
     "Embedded Systems & (IoT Tinkerer and Developer at Same time also IoT Engineer) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
-  avatarUrl: "https://toaster.mjmokhtar.cloud/image/fig2.png",
+  avatarUrl: "https://toaster.mjmokhtar.cloud/image/new2.png",
   personalWebsiteUrl: "https://mjmokhtar.cloud/",
   contact: {
     email: "mjmmiat01@gmail.com",  
