@@ -18,8 +18,8 @@ export const RESUME_DATA = {
     "Toaster. 🔌♨️🍞",
   summary:
     "Embedded Systems & (IoT Tinkerer and Developer at Same time also IoT Engineer) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
-  avatarUrl: "https://toaster.mjmokhtar.cloud/image/new.jpeg",
-  personalWebsiteUrl: "https://mjmokhtar.netlify.app/",
+  avatarUrl: "https://toaster.mjmokhtar.cloud/image/fig2.png",
+  personalWebsiteUrl: "https://mjmokhtar.cloud/",
   contact: {
     email: "mjmmiat01@gmail.com",  
     social: [
@@ -48,7 +48,7 @@ export const RESUME_DATA = {
     {
       company: "Toaster",
       link: "https://toaster.mjmokhtar.cloud",
-      badges: ["Founder", "Freelancer", "Consultant"],
+      badges: ["Founder", "Consultant"],
       title: "IoT Engineer & Embedded Systems",
       logo: ConsultlyLogo,
       start: "2024",
@@ -60,7 +60,7 @@ export const RESUME_DATA = {
       company: "AMI",
       link: "https://amanmedia.id/",
       badges: ["Office"],
-      title: "IoT Engineer",
+      title: "IoT Presales Engineer",
       logo: ConsultlyLogo, // bisa pakai placeholder atau logo khusus
       start: "2025",
       end: null,
@@ -147,7 +147,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Middleware of measurement system",
+      title: "Middleware of measurement system weightbridge ANTAM POMALA",
       techStack: [
         "Side Project",
         "Node.js",
@@ -156,7 +156,7 @@ export const RESUME_DATA = {
         "RESTful API"     
       ],
       description:
-        "Developed a real-time data acquisition middleware for industrial weight sensors using UDP and FTP. Implemented automated image backup and camera-based material analysis, reducing manual reporting time by 40% and improving traceability.",
+        "Developed a real-time data acquisition middleware for industrial weightbridge using UDP and FTP. Implemented automated image backup and camera-based material analysis, reducing manual reporting time by 40% and improving traceability.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
