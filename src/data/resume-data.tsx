@@ -17,7 +17,7 @@ export const RESUME_DATA = {
   about:
     "Toaster. 🔌♨️🍞",
   summary:
-    "Embedded Systems & (IoT Tinkerer and Developer at Same time also IoT Engineer) with physics background and several years of experience developing IoT solutions. Proven ability to design, prototype, and implement embedded systems for instrumentation applications, specializing in precision measuring instruments and calibration systems.",
+    "Embedded Systems & IoT Engineer transitioning into product-driven roles, with experience leading end-to-end system development from requirement definition to deployment. Skilled in bridging business needs and technical execution, managing stakeholders, and delivering scalable IoT solutions for industrial and instrumentation applications.",
   avatarUrl: "https://toaster.mjmokhtar.cloud/image/new2.jpg",
   personalWebsiteUrl: "https://mjmokhtar.cloud/",
   contact: {
@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: null,
       description:
-        "Provide consultation and hands-on development of IoT and embedded systems. Design and integrate smart devices with sensors, microcontrollers, and communication protocols. Deliver personalized tutoring for professionals and students in microcontroller programming, PCB design, IoT protocols, and real-world hardware deployment.",
+  "Founded and led IoT and embedded systems consultancy, managing end-to-end project delivery from requirement gathering to deployment. Defined product requirements, designed system architecture, and coordinated with clients to ensure solutions aligned with business needs. Delivered hands-on development of smart devices, while also mentoring professionals and students in embedded systems, IoT protocols, and hardware product development.",
     },
     {
       company: "AMI",
@@ -80,11 +80,12 @@ export const RESUME_DATA = {
     }
   ],
   skills: [
-    "Programming & Scripting",  
+    "Technical Product & Project Manager (IoT)",
+    "System Design & Integration",
     "IoT, Embedded & Firmware Systems",
     "PCB Layout & Circuit Design Engineer",
-    "System Design & Integration",
-    "Network Configuration & Protocols",    
+    "Programming & Scripting",
+    "Network Configuration & Protocols"
 ],
   projects: [
     {
