@@ -104,7 +104,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "",
+        href: "https://mjmokhtar.cloud/projects/atwp",
       },
     },
     {
@@ -123,7 +123,7 @@ export const RESUME_DATA = {
       logo: EvercastLogo,
       link: {
         label: "github.com",
-        href: "",
+        href: "https://mjmokhtar.cloud/projects/running-text",
       },
     },    
     {
