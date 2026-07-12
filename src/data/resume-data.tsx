@@ -221,6 +221,25 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "HABD Dismantling Project MRT Jakarta",
+      techStack: [
+        "AMI",
+        "Project Management",
+        "WBS & Gantt",
+        "RACI",
+        "Risk Register",
+        "Field Execution",
+        "BAP & BAST"
+      ],
+      description:
+        "Managed end-to-end dismantling of the Hot Axle Box Detector (HABD) system for PT MRT Jakarta, from work breakdown planning and risk management to field execution and formal handover. Completed 100% of field work safely with full contractual documentation (progress reports, milestone certificates, and BAST).",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
       title: "IoT Tinkerer",
       techStack: [
         "Portfolio",
