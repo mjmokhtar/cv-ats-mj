@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#064e3b"/>
+  <ellipse cx="400" cy="300" rx="300" ry="80" fill="#059669" opacity="0.5"/>
+  <text x="400" y="100" text-anchor="middle" fill="#d1fae5" font-family="monospace" font-size="20">eFeeder 5</text>
+</svg>

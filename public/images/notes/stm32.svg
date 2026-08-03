@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0f172a"/>
+  <rect x="50" y="50" width="700" height="400" rx="4" fill="#1e293b"/>
+  <text x="80" y="100" fill="#22d3ee" font-family="monospace" font-size="16">int main(void) {</text>
+  <text x="100" y="130" fill="#a5f3fc" font-family="monospace" font-size="14">  HAL_Init();</text>
+  <text x="100" y="160" fill="#a5f3fc" font-family="monospace" font-size="14">  SystemClock_Config();</text>
+  <text x="80" y="190" fill="#22d3ee" font-family="monospace" font-size="16">}</text>
+</svg>

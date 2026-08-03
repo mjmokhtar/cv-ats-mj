@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#292524"/>
+  <rect x="250" y="120" width="300" height="280" rx="12" fill="#78716c"/>
+  <rect x="280" y="160" width="240" height="60" rx="4" fill="#44403c"/>
+  <text x="400" y="430" text-anchor="middle" fill="#a8a29e" font-family="monospace" font-size="16">Smart Food Locker</text>
+</svg>

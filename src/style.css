@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fallback — JS applyTheme() sets these inline on <html> at runtime */
+html.light {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--notion-bg, #191919);
+  color: var(--notion-text, #ebebeb);
+  font-family: Inter, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@layer utilities {
+  .notion-callout {
+    @apply rounded-lg border border-notion-border bg-notion-card p-4;
+  }
+}

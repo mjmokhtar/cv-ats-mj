@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#18181b"/>
+  <rect x="200" y="100" width="400" height="300" rx="8" fill="#27272a"/>
+  <circle cx="350" cy="220" r="40" fill="#ef4444" opacity="0.6"/>
+  <circle cx="450" cy="220" r="40" fill="#22c55e" opacity="0.6"/>
+  <text x="400" y="430" text-anchor="middle" fill="#a1a1aa" font-family="monospace" font-size="16">AITrash</text>
+</svg>
