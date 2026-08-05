@@ -1,17 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./index.html', './src/**/*.{vue,js}'],
-  darkMode: 'class',
   theme: {
     extend: {
       colors: {
         notion: {
-          bg: 'var(--notion-bg)',
-          card: 'var(--notion-card)',
-          cardHover: 'var(--notion-card-hover)',
-          border: 'var(--notion-border)',
-          muted: 'var(--notion-muted)',
-          text: 'var(--notion-text)',
+          bg: '#191919',
+          card: '#252525',
+          cardHover: '#2a2a2a',
+          border: '#373737',
+          muted: '#9b9b9b',
+          text: '#ebebeb',
         },
       },
       fontFamily: {

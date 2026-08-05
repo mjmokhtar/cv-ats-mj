@@ -2,7 +2,6 @@
 import { ref } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import site from '../../data/site.js'
-import ThemeToggle from '../ui/ThemeToggle.vue'
 
 defineProps({
   breadcrumb: { type: String, default: '' },
@@ -46,27 +45,20 @@ function isActive(path) {
           <span>{{ link.icon }}</span>
           <span>{{ link.label }}</span>
         </RouterLink>
-
-        <div class="ml-2 flex items-center gap-1 border-l border-notion-border pl-2">
-          <ThemeToggle />
-        </div>
       </nav>
 
-      <div class="flex items-center gap-1 md:hidden">
-        <ThemeToggle />
-        <button
-          class="rounded p-2 text-notion-muted hover:bg-notion-card"
-          aria-label="Toggle menu"
-          @click="mobileOpen = !mobileOpen"
-        >
-          <svg v-if="!mobileOpen" class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-          </svg>
-          <svg v-else class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-          </svg>
-        </button>
-      </div>
+      <button
+        class="rounded p-2 text-notion-muted hover:bg-notion-card md:hidden"
+        aria-label="Toggle menu"
+        @click="mobileOpen = !mobileOpen"
+      >
+        <svg v-if="!mobileOpen" class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+        <svg v-else class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
     </div>
 
     <nav

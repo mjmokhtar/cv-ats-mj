@@ -1,5 +1,5 @@
 export default {
-  name: "MJ's Site",
+  name: "CV ATS MJ's Site",
   fullName: "Muhammad Jumi'at Mokhtar",
   initials: 'MJ',
   location: 'Jakarta, Indonesia',
