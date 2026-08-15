@@ -240,7 +240,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "IoT Tinkerer",
+      title: "Docs Learning",
       techStack: [
         "Portfolio",
         "Arduino",
@@ -261,7 +261,7 @@ export const RESUME_DATA = {
       logo: MonitoLogo,
       link: {
         label: "github.com",
-        href: "",
+        href: "https://docs.mjmokhtar.cloud",
       },
     },
     {
