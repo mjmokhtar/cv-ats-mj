@@ -60,12 +60,12 @@ export const RESUME_DATA = {
       company: "AMI",
       link: "https://amanmedia.id/",
       badges: ["Office"],
-      title: "IoT Presales Engineer",
+      title: "IoT Specialist",
       logo: ConsultlyLogo, // bisa pakai placeholder atau logo khusus
       start: "2025",
       end: null,
       description:
-      "This Jakarta-based technology partner, established in 2019, focuses on helping industries build integrated systems through innovative, simple, and trusted solutions.",
+      "this Jakarta-based technology partner, established in 2019, focuses on helping industries build integrated systems through innovative, simple, and trusted solutions.",
     },
     {
       company: "RESTEK",
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2025",
       description:
-        "A technology and engineering based company that provides solutions for various Special Industrial Railway",
+        "a technology and engineering company founded in 2012. We design, integrate, and maintain Intelligent Transport Systems for railway and urban transit operators across Indonesia and Southeast Asia.",
     }
   ],
   skills: [
@@ -228,8 +228,7 @@ export const RESUME_DATA = {
         "WBS & Gantt",
         "RACI",
         "Risk Register",
-        "Field Execution",
-        "BAP & BAST"
+        "Field Execution"
       ],
       description:
         "Managed end-to-end dismantling of the Hot Axle Box Detector (HABD) system for PT MRT Jakarta, from work breakdown planning and risk management to field execution and formal handover. Completed 100% of field work safely with full contractual documentation (progress reports, milestone certificates, and BAST).",
@@ -244,12 +243,14 @@ export const RESUME_DATA = {
       techStack: [
         "Portfolio",
         "Arduino",
+        "AVR-Atmel",
         "espressif",
         "STM32",
         "RPI",
         "C",
         "C++",
-        "Eagle PCB",        
+        "Eagle PCB",
+        "KiCAD",        
         "Python",
         "Node.js",
         "Go",
