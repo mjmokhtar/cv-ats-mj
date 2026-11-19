@@ -18,7 +18,7 @@ export const RESUME_DATA = {
     "Toaster. 🔌♨️🍞",
   summary:
     "Embedded Systems & IoT Engineer transitioning into product-driven roles, with experience leading end-to-end system development from requirement definition to deployment. Skilled in bridging business needs and technical execution, managing stakeholders, and delivering scalable IoT solutions for industrial and instrumentation applications.",
-  avatarUrl: "https://toaster.mjmokhtar.cloud/image/new2.jpg",
+  avatarUrl: "/images/new2.jpg",
   personalWebsiteUrl: "https://mjmokhtar.cloud/",
   contact: {
     email: "mjmmiat01@gmail.com",  
@@ -236,6 +236,44 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "",
+      },
+    },
+    {
+      title: "Managed Service Network Donggi Senoro LNG",
+      techStack: [
+        "AMI",
+        "Project Coordination",
+        "LAN & WAN",
+        "PABX",
+        "NAC",
+        "Managed Service",
+        "Stakeholder Management"
+      ],
+      description:
+        "Project Coordinator for the installation and managed service of LAN, WAN, PABX, and NAC (2026-2031) at Donggi Senoro LNG, delivered through PT Indosat Ooredoo Hutchison. Coordinate the client and the technician team at the Luwuk plant site, run the kick-off and routine coordination meetings, and keep work scope, schedule, tools, and site activities aligned with the RKS requirements across Plant Site Luwuk and Head Office Jakarta.",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
+      title: "Kampung Halaman (Game Product Management)",
+      techStack: [
+        "Side Project",
+        "Product Management",
+        "PRD & ERD",
+        "Roadmap & Scope Control",
+        "Vanilla JS",
+        "Vercel",
+        "Go-to-Market"
+      ],
+      description:
+        "Owned an Indonesian open-world pixel-art game from concept to public launch as product manager. Wrote and versioned the PRD and ERD in Indonesian and English, split the roadmap into stages, and made scope decisions to keep the product shippable: paused complex features to launch Stage 1, then cancelled or deferred lower-value ideas in later stages. Defined the story premise and a one-time lifetime-access pricing model, and ran the launch promotion on X and LinkedIn.",
+      logo: JarockiMeLogo,
+      link: {
+        label: "kampung-halaman-sand.vercel.app",
+        href: "https://kampung-halaman-sand.vercel.app/",
       },
     },
     {

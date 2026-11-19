@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: "https://cv-ats.mjmokhtar.cloud",
     images: [
       {
-        url: "https://toaster.mjmokhtar.cloud/image/new2.jpg",
+        url: "/images/new2.jpg",
         width: 800,
         height: 800,
       },
