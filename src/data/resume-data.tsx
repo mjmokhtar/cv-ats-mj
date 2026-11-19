@@ -33,6 +33,11 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/mjmokhtar/",
         icon: LinkedInIcon,
       },
+      {
+        name: "Gumroad",
+        url: "https://store.mjmokhtar.cloud",
+        icon: GumroadIcon,
+      },
     ],
   },
   education: [
