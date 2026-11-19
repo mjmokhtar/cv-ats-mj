@@ -250,7 +250,7 @@ export const RESUME_DATA = {
         "Stakeholder Management"
       ],
       description:
-        "Project Coordinator for the installation and managed service of LAN, WAN, PABX, and NAC (2026-2031) at Donggi Senoro LNG, delivered through PT Indosat Ooredoo Hutchison. Coordinate the client and the technician team at the Luwuk plant site, run the kick-off and routine coordination meetings, and keep work scope, schedule, tools, and site activities aligned with the RKS requirements across Plant Site Luwuk and Head Office Jakarta.",
+        "Project Coordinator for LAN, WAN, PABX, and NAC installation and managed service (2026-2031) at Donggi Senoro LNG via PT Indosat Ooredoo Hutchison. Coordinate the client and Luwuk site technicians, run kick-off and routine meetings, and keep scope and schedule aligned with the RKS.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -269,7 +269,7 @@ export const RESUME_DATA = {
         "Go-to-Market"
       ],
       description:
-        "Owned an Indonesian open-world pixel-art game from concept to public launch as product manager. Wrote and versioned the PRD and ERD in Indonesian and English, split the roadmap into stages, and made scope decisions to keep the product shippable: paused complex features to launch Stage 1, then cancelled or deferred lower-value ideas in later stages. Defined the story premise and a one-time lifetime-access pricing model, and ran the launch promotion on X and LinkedIn.",
+        "Product manager of an Indonesian open-world pixel-art game, from concept to public launch. Wrote the bilingual PRD and ERD, staged the roadmap, and cut or deferred features to keep it shippable. Defined a one-time lifetime-access pricing model and ran the launch promotion.",
       logo: JarockiMeLogo,
       link: {
         label: "kampung-halaman-sand.vercel.app",
