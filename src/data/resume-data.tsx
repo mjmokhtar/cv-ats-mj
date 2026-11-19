@@ -258,7 +258,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Kampung Halaman (Game Product Management)",
+      title: "Kampung Halaman",
       techStack: [
         "Side Project",
         "Product Management",
