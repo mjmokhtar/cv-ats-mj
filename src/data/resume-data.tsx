@@ -6,7 +6,7 @@ import {
   ParabolLogo,
 
 } from "@/images/logos";
-import { GitHubIcon, GumroadIcon, LinkedInIcon } from "@/components/icons";
+import { GitHubIcon, GumroadIcon, LinkedInIcon} from "@/components/icons";
 
 
 export const RESUME_DATA = {
@@ -209,16 +209,38 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Middleware BatteryCharger Apps",
+      title: "DWE Corrective Maintenance MRT Jakarta",
       techStack: [
         "AMI",
-        "Pyhton",
+        "Team Lead",
+        "Corrective Maintenance",
+        "SAT",
+        "Python",
+        "PyQt5",
         "UART Serial",
-        "PyQt5",        
-        "Desktop Apps"
+        "SCPI"
       ],
       description:
-        "Developed a dekstop middleware system for Battery charging. using serial comunication protocol to convert byte data from old apps to new device battery charging using protocol SCPI.",
+        "Led the team and coordinated with users on corrective maintenance of Depot Workshop Equipment (DWE) ultrasonic flaw detectors at MRT Jakarta: replacing faulty devices and running SAT. Also built a PyQt5 desktop middleware that converts legacy byte data from the old battery charging app into SCPI commands for the new device over serial.",
+      logo: MonitoLogo,
+      link: {
+        label: "github.com",
+        href: "",
+      },
+    },
+    {
+      title: "Fuel Monitoring Installation GE U18C Locomotive",
+      techStack: [
+        "AMI",
+        "Teltonika FMC650",
+        "Eurosens Dominator",
+        "CAN Bus",
+        "Wialon",
+        "Sensor Calibration",
+        "Node.js"
+      ],
+      description:
+        "Installed and commissioned fuel monitoring on GE U18C locomotives using Eurosens Dominator level sensors and Teltonika FMC650 trackers over CAN bus. Mapped CAN fuel level and flow data, built the tank calibration (geometry plus refueling points), and integrated the data into Wialon. Wrote a Node.js Codec 8 simulator to test the integration.",
       logo: MonitoLogo,
       link: {
         label: "github.com",
@@ -247,7 +269,7 @@ export const RESUME_DATA = {
       title: "Managed Service Network Donggi Senoro LNG",
       techStack: [
         "AMI",
-        "Project Coordination",        
+        "Project Coordination",
         "Managed Service",
         "Stakeholder Management"
       ],
@@ -257,25 +279,6 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "",
-      },
-    },
-    {
-      title: "Kampung Halaman",
-      techStack: [
-        "Side Project",
-        "Product Management",
-        "PRD & ERD",
-        "Roadmap & Scope Control",
-        "Vanilla JS",
-        "Vercel",
-        "Go-to-Market"
-      ],
-      description:
-        "Product manager of an Indonesian open-world pixel-art game, from concept to public launch. Wrote the bilingual PRD and ERD, staged the roadmap, and cut or deferred features to keep it shippable. Defined a one-time lifetime-access pricing model and ran the launch promotion.",
-      logo: JarockiMeLogo,
-      link: {
-        label: "kampung-halaman-sand.vercel.app",
-        href: "https://kampung-halaman-sand.vercel.app/",
       },
     },
     {
@@ -342,6 +345,25 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://j2me-retro.mjmokhtar.cloud",
+      },
+    },
+    {
+      title: "Kampung Halaman (Game Product Management)",
+      techStack: [
+        "Side Project",
+        "Product Management",
+        "PRD & ERD",
+        "Roadmap & Scope Control",
+        "Vanilla JS",
+        "Vercel",
+        "Go-to-Market"
+      ],
+      description:
+        "Product manager of an Indonesian open-world pixel-art game, from concept to public launch. Wrote the bilingual PRD and ERD, staged the roadmap, and cut or deferred features to keep it shippable. Defined a one-time lifetime-access pricing model and ran the launch promotion.",
+      logo: JarockiMeLogo,
+      link: {
+        label: "kampung-halaman-sand.vercel.app",
+        href: "https://kampung-halaman-sand.vercel.app/",
       },
     }
   ],
