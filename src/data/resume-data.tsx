@@ -242,10 +242,7 @@ export const RESUME_DATA = {
       title: "Managed Service Network Donggi Senoro LNG",
       techStack: [
         "AMI",
-        "Project Coordination",
-        "LAN & WAN",
-        "PABX",
-        "NAC",
+        "Project Coordination",        
         "Managed Service",
         "Stakeholder Management"
       ],
