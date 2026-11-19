@@ -6,7 +6,7 @@ import {
   ParabolLogo,
 
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon} from "@/components/icons";
+import { GitHubIcon, GumroadIcon, LinkedInIcon } from "@/components/icons";
 
 
 export const RESUME_DATA = {
